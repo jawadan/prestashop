@@ -4,7 +4,7 @@ module.exports = {
       location: '@vue-storefront/prestashop-api/server',
       configuration: {
         api: {
-          url: 'https://rest.binshops.com'
+          url: 'https://pvshop.dreamhosters.com'
         }
       }
     }
